@@ -1,5 +1,5 @@
 export const navbarData = {
-  homeTitle: 'Riyad\'s Blog',
+  homeTitle: 'Art Shop',
 }
 
 export const footerData = {
@@ -10,8 +10,8 @@ export const footerData = {
 }
 
 export const homePage = {
-  title: 'Welcome To My Blog Site',
-  description: 'Get Web Development, Javascript, Typescript, NodeJs, Vue, and Nuxt, Related Articles, Tips, Learning resources and more.',
+  title: 'Welcome To Art Shop',
+  description: 'Get news, website development service,  learning resources and more.',
 }
 
 export const blogsPage = {
@@ -25,19 +25,19 @@ export const categoryPage = {
 }
 
 export const aboutPage = {
-  title: 'Al Asad Nur Riyad',
-  description: 'Software Engineer, Problem Solver, Web Enthusiast.',
-  aboutMe: 'Hello, fellow human! I\'m a software wizard who spends most of his day crafting code spells at @AppsCode in the Bytebuilders team. When I\'m not crafting code, you can find me summoning solutions to problems on online judges. Just don\'t ask me to cast any love spells, my magic only works on machines!',
+  title: 'Art shop bhola',
+  description: 'Online web services and digital media',
+  aboutMe: 'Welcome to [Art Shop Name], your premier destination for unique art pieces and cutting-edge frontend development courses. We’re more than just an online media platform—we’re a community of artists and tech enthusiasts passionate about creativity and innovation.',
 }
 
 export const seoData = {
-  description: 'Riyad, Software Engineer at AppsCode, with over 2.5+ years experience in software development.',
-  ogTitle: 'Riyad codes and helps others learn Javascript, Typescript, Vue, Nuxt, & Problem Solving',
-  twitterDescription: 'My blog website, where I play around with Nuxt, Vue, and more and showcase my blog, resources, etc',
-  image: 'https://res.cloudinary.com/dmecmyphj/image/upload/v1673548905/nuxt-blog/cover_ntgs6u.webp',
-  mySite: 'https://blog-nurriyad.vercel.app',
-  twitterHandle: '@qdnvubp',
-  mailAddress: 'asadnurriyad@gmail.com',
+  description: 'Discover unique art pieces and learn frontend development with our comprehensive courses. [Art Shop Name] is your gateway to creativity and coding.',
+  ogTitle: 'Explore Art and Learn Frontend Development at [Art Shop Name]',
+  twitterDescription: 'Visit [Art Shop Name] to find stunning art pieces and master frontend development with our expert-led courses.',
+  image: 'https://www.pexels.com/video/a-small-lighthouse-on-the-water-near-a-body-of-water-17141099/',
+  mySite: 'https://artshop-website.com',
+  twitterHandle: '@artshophandle',
+  mailAddress: 'support@artshop-website.com',
 }
 
 export const siteMetaData = [

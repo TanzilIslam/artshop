@@ -14,7 +14,10 @@ import { blogsPage } from '~/data'
         </p>
       </div>
       <div class="px-6 justify-self-center">
-        <LogoDogpow />
+        <NuxtImg
+          src="/hero.jpeg"
+          alt="bhola web tech"
+        />
       </div>
     </div>
   </div>

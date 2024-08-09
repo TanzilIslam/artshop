@@ -2,9 +2,9 @@
 title: What Happened During the Quota Reform Protests in Bangladesh?
 date: 5 July 2024
 description: The quota reform protests in Bangladesh saw widespread student demonstrations demanding changes to the government job quota system, leading to clashes and a government review.
-image: /blogs-img/blog1.jpeg
+image: /blogs-img/blog1.png
 alt: What Happened During the Quota Reform Protests in Bangladesh?
-ogImage: /blogs-img/blog1.jpeg
+ogImage: /blogs-img/blog1.png
 tags: ['quota reform protest', 'students']
 published: true
 ---
